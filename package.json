@@ -1,0 +1,22 @@
+{
+  "name": "zw8-npm-learn",
+  "version": "1.0.1",
+  "description": "npm学习",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zwfun/zw8-npm-learn.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "zw8",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zwfun/zw8-npm-learn/issues"
+  },
+  "homepage": "https://github.com/zwfun/zw8-npm-learn#readme"
+}
