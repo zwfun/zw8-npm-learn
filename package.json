@@ -1,6 +1,6 @@
 {
   "name": "zw8-npm-learn",
-  "version": "1.0.0-rc.1",
+  "version": "1.0.0",
   "description": "npm学习",
   "main": "index.js",
   "scripts": {
